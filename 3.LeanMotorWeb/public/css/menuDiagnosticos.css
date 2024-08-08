@@ -1,0 +1,40 @@
+#gruposDiagnostico>div.row>div.col-3 {
+	max-width: 20%;
+	height: 200px;
+	-webkit-transition: height 0.4s;
+}
+
+/* #gruposDiagnostico>div.row>div.col-3:hover {
+	height: 210px;
+} */
+
+button.icon {
+	cursor: default !important;
+	display: block;
+	margin: 20px auto;
+	background-color: rgba(255, 255, 255, .15);
+	-webkit-border-radius: 50%;
+	-webkit-box-shadow: 0px 0px 0px 30px rgba(255, 255, 255, 0);
+	-webkit-transition: box-shadow .4s;
+}
+
+#gruposDiagnostico>div.row>div>a {
+	text-decoration: none;
+	display: inline-block;
+    width: 100%;
+	font-size: 1em;
+	font-weight: bold;
+	color: white;
+	text-align: center;
+	opacity: .6;
+	-webkit-transition: padding-top .4s;
+}
+
+#gruposDiagnostico>div.row>div.col-3:hover>a {
+	padding-top: 20px;
+	opacity: 1;
+}
+
+#gruposDiagnostico>div.row>div.col-3:hover>button.icon {
+	-webkit-box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, .6);
+}

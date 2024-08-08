@@ -1,0 +1,154 @@
+ footer.footer {
+   padding: 0.2rem;
+ }
+
+ footer.navbar-shadow {
+   -webkit-box-shadow: 1px 0 20px rgba(0, 0, 0, 0.1);
+   box-shadow: 1px 0 20px rgba(0, 0, 0, 0.1);
+ }
+
+ footer.navbar-border {
+   border-top: 1px solid #E4E7ED;
+ }
+
+ footer.footer-transparent {
+   border: none;
+ }
+
+ footer.footer-light {
+   background: #FFFFFF;
+ }
+
+ footer.footer-dark {
+   background: #1D2B36;
+   color: #FFFFFF;
+ }
+
+ textarea {
+   resize: none !important;
+ }
+
+ .header-blue {
+   color: white;
+   background-color: #337ab7;
+   width: 100%;
+   font-weight: bold;
+   padding: 11px;
+ }
+
+ input.parsley-success,
+ select.parsley-success,
+ textarea.parsley-success {
+   color: #468847;
+   background-color: #DFF0D8;
+   border: 1px solid #D6E9C6;
+ }
+
+ input.parsley-error,
+ select.parsley-error,
+ textarea.parsley-error {
+   color: #B94A48;
+   background-color: #F2DEDE;
+   border: 1px solid #EED3D7;
+ }
+
+ .btn {
+   position: relative;
+   z-index: 1;
+ }
+
+ .parsley-success {
+   color: #468847;
+   background-color: #DFF0D8;
+   border: 1px solid #D6E9C6;
+ }
+
+ .parsley-error {
+   color: #B94A48;
+   background-color: #F2DEDE;
+   border: 1px solid #EED3D7;
+ }
+
+ .parsley-errors-list {
+   margin: 2px 0 3px;
+   padding: 0;
+   list-style-type: none;
+   font-size: 0.9em;
+   line-height: 0.9em;
+   opacity: 0;
+
+   transition: all .3s ease-in;
+   -o-transition: all .3s ease-in;
+   -moz-transition: all .3s ease-in;
+   -webkit-transition: all .3s ease-in;
+ }
+
+ .parsley-errors-list.filled {
+   opacity: 1;
+ }
+
+ .parsley-type,
+ .parsley-notblank,
+ .parsley-required,
+ .parsley-pattern,
+ .parsley-min,
+ .parsley-max,
+ .parsley-range,
+ .parsley-minlength,
+ .parsley-maxlength,
+ .parsley-length,
+ .parsley-mincheck,
+ .parsley-maxcheck,
+ .parsley-check,
+ .parsley-equalto {
+   color: #B94A48;
+ }
+
+ .href {
+   display: inline;
+   border: 0;
+   padding: 0;
+   margin: 0;
+   text-decoration: none;
+   background-color: transparent;
+   color: #337ab7;
+   font-size: 1em;
+   line-height: 1em;
+ }
+
+ .href:hover {
+   text-decoration: underline;
+   color: #23527c;
+   cursor: pointer;
+ }
+
+ .loading-gif {
+   position: absolute;
+   left: 50%;
+   margin: 0px;
+ }
+
+ .btn {
+   position: relative;
+   z-index: 1;
+ }
+
+ input[type="radio"] {
+   position: relative;
+   z-index: 1;
+ }
+
+ input[type="checkbox"] {
+   position: relative;
+   z-index: 1;
+ }
+
+ .cursor-default {
+   cursor: default !important;
+ }
+
+.custom-control-label-lg::before, 
+.custom-control-label-lg::after {
+    width: 1.50rem;
+    height: 1.50rem;
+}

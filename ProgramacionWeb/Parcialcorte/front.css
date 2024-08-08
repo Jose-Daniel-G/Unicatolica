@@ -1,0 +1,3 @@
+.no-style {list-style-type:upper-latin; margin:0; padding: 2}
+.vertical a { display: block; width:360px; color: #000000; background-color: #5faffb; text-align: center; padding: 4px;}
+.vertical a:hover, .vertical a:active {background-color: #a7d1fa;}

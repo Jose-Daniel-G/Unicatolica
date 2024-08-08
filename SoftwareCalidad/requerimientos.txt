@@ -1,0 +1,16 @@
+REQUERIMIENTOS
+• Requerimientos Funcionales
+
+ COMPORTAMIENTO O FUNCION PARTICULAR DEL SISTEMA QUE CUMPLE CIERTAS CONDICIONES.
+
+El sitio web debe permitirle al visitante seleccionar entre los tipos de categorías presentes (bebidas, comida y café en grano).
+El sitio web le permitirá al visitante acceder al botón “MY CUENTA”.
+El sitio web le permitirá al visitante visualizar los productos añadidos al “CARRITO DE COMPRAS”.
+
+
+• Requerimientos No funcionales
+CARACTERISTICAS GENERALES
+
+El sitio web se llamará COFFEE GARDEN. 
+Los colores del sistema serán en #378E99, #8FDCE6, #FFFFFF.
+El sitio web debe ser entendible para cualquier usuario.

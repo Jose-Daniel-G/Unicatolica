@@ -1,0 +1,275 @@
+?
+ *?
+ *?
+ *?
+ *?
+----------------------------------
+2.Datos actuales Afiliado 
+ Documento : ??	 N. Documento Registrado : 
+ Primer Nombre: 	 Segundo Nombre: 
+ Primer Apellido: 	Segundo Apellido: 
+----------------------------------
+ 3.DETALLE DE LA INFORMACION ACTUALIZAR
+ Direccion: 
+ Municipio: 
+ Departamento: 
+ Barrio y/o Vereda: 
+ Telefono: 
+ Celular: 
+ Correo electronico: 
+ Municipio: 
+ Departamento: 
+ Fecha: 
+ Ocupacion u oficio: 	 Riesgo: ??
+ Primer Apellido: 	 Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 	 Sexo: ??
+ Numero de Documento Anterior: 
+ Tipo de Documento Anterior: ??
+ Fecha de expedicion: 
+ Tipo de Documento: ??
+ Numero de documento 
+ Sexo ??
+ Primer Apellido: 	Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 
+ Parentesco: 	Tipo de novedad:??
+ Nacionalidad:	 Direccion de residencia:
+ Municipio: 	 Departamento:
+ Fecha de nacimiento:
+ Telefono: 	 Celular: 
+ Nacionalidad: 
+ Fecha de defuncion: 
+ Fecha de inscripcion de resgistro: 
+ Numero de Documento: 
+ Tipo de Documento: ??
+ Naturaleza: ??
+ Codigo: 
+ Razon social: 
+ Direccion:: 
+ Barrio: 
+ Municipio: 
+ Departamento: 
+ Telefono: 
+ Celular: 
+ Sucursal:: 
+ Correo: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+?
+ *?
+ *?
+ *?
+ *?
+----------------------------------
+2.Datos actuales Afiliado 
+ Documento : ??	 N. Documento Registrado : 
+ Primer Nombre: 	 Segundo Nombre: 
+ Primer Apellido: 	Segundo Apellido: 
+----------------------------------
+ 3.DETALLE DE LA INFORMACION ACTUALIZAR
+ Direccion: 
+ Municipio: 
+ Departamento: 
+ Barrio y/o Vereda: 
+ Telefono: 
+ Celular: 
+ Correo electronico: 
+ Municipio: 
+ Departamento: 
+ Fecha: 
+ Ocupacion u oficio: 	 Riesgo: ??
+ Primer Apellido: 	 Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 	 Sexo: ??
+ Numero de Documento Anterior: 
+ Tipo de Documento Anterior: ??
+ Fecha de expedicion: 
+ Tipo de Documento: ??
+ Numero de documento 
+ Sexo ??
+ Primer Apellido: 	Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 
+ Parentesco: 	Tipo de novedad:??
+ Nacionalidad:	 Direccion de residencia:
+ Municipio: 	 Departamento:
+ Fecha de nacimiento:
+ Telefono: 	 Celular: 
+ Nacionalidad: 
+ Fecha de defuncion: 
+ Fecha de inscripcion de resgistro: 
+ Numero de Documento: 
+ Tipo de Documento: ??
+ Naturaleza: ??
+ Codigo: 
+ Razon social: 
+ Direccion:: 
+ Barrio: 
+ Municipio: 
+ Departamento: 
+ Telefono: 
+ Celular: 
+ Sucursal:: 
+ Correo: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+?
+ *?
+ *?
+ *?
+ *?
+----------------------------------
+2.Datos actuales Afiliado 
+ Documento : ??	 N. Documento Registrado : 
+ Primer Nombre: 	 Segundo Nombre: 
+ Primer Apellido: 	Segundo Apellido: 
+----------------------------------
+ 3.DETALLE DE LA INFORMACION ACTUALIZAR
+ Direccion: 
+ Municipio: 
+ Departamento: 
+ Barrio y/o Vereda: 
+ Telefono: 
+ Celular: 
+ Correo electronico: 
+ Municipio: 
+ Departamento: 
+ Fecha: 
+ Ocupacion u oficio: 	 Riesgo: ??
+ Primer Apellido: 	 Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 	 Sexo: ??
+ Numero de Documento Anterior: 
+ Tipo de Documento Anterior: ??
+ Fecha de expedicion: 
+ Tipo de Documento: ??
+ Numero de documento 
+ Sexo ??
+ Primer Apellido: 	Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 
+ Parentesco: 	Tipo de novedad:??
+ Nacionalidad:	 Direccion de residencia:
+ Municipio: 	 Departamento:
+ Fecha de nacimiento:
+ Telefono: 	 Celular: 
+ Nacionalidad: 
+ Fecha de defuncion: 
+ Fecha de inscripcion de resgistro: 
+ Numero de Documento: 
+ Tipo de Documento: ??
+ Naturaleza: ??
+ Codigo: 
+ Razon social: 
+ Direccion:: 
+ Barrio: 
+ Municipio: 
+ Departamento: 
+ Telefono: 
+ Celular: 
+ Sucursal:: 
+ Correo: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+?
+ *?
+ *?
+ *?
+ *?
+----------------------------------
+2.Datos actuales Afiliado 
+ Documento : ??	 N. Documento Registrado : 
+ Primer Nombre: 	 Segundo Nombre: 
+ Primer Apellido: 	Segundo Apellido: 
+----------------------------------
+ 3.DETALLE DE LA INFORMACION ACTUALIZAR
+ Direccion: 
+ Municipio: 
+ Departamento: 
+ Barrio y/o Vereda: 
+ Telefono: 
+ Celular: 
+ Correo electronico: 
+ Municipio: 
+ Departamento: 
+ Fecha: 
+ Ocupacion u oficio: 	 Riesgo: ??
+ Primer Apellido: 	 Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 	 Sexo: ??
+ Numero de Documento Anterior: 
+ Tipo de Documento Anterior: ??
+ Fecha de expedicion: 
+ Tipo de Documento: ??
+ Numero de documento 
+ Sexo ??
+ Primer Apellido: 	Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 
+ Parentesco: 	Tipo de novedad:??
+ Nacionalidad:	 Direccion de residencia:
+ Municipio: 	 Departamento:
+ Fecha de nacimiento:
+ Telefono: 	 Celular: 
+ Nacionalidad: 
+ Fecha de defuncion: 
+ Fecha de inscripcion de resgistro: 
+ Numero de Documento: 
+ Tipo de Documento: ??
+ Naturaleza: ??
+ Codigo: 
+ Razon social: 
+ Direccion:: 
+ Barrio: 
+ Municipio: 
+ Departamento: 
+ Telefono: 
+ Celular: 
+ Sucursal:: 
+ Correo: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+?
+ *?
+ *?
+ *?
+ *?
+----------------------------------
+2.Datos actuales Afiliado 
+ Documento : ??	 N. Documento Registrado : 
+ Primer Nombre: 	 Segundo Nombre: 
+ Primer Apellido: 	Segundo Apellido: 
+----------------------------------
+ 3.DETALLE DE LA INFORMACION ACTUALIZAR
+ Direccion: 
+ Municipio: 
+ Departamento: 
+ Barrio y/o Vereda: 
+ Telefono: 
+ Celular: 
+ Correo electronico: 
+ Municipio: 
+ Departamento: 
+ Fecha: 
+ Ocupacion u oficio: 	 Riesgo: ??
+ Primer Apellido: 	 Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 	 Sexo: ??
+ Numero de Documento Anterior: 
+ Tipo de Documento Anterior: ??
+ Fecha de expedicion: 
+ Tipo de Documento: ??
+ Numero de documento 
+ Sexo ??
+ Primer Apellido: 	Segundo Apellido: 
+ Primer Nombre: 	 Segundo Nombre: 
+ Parentesco: 	Tipo de novedad:??
+ Nacionalidad:	 Direccion de residencia:
+ Municipio: 	 Departamento:
+ Fecha de nacimiento:
+ Telefono: 	 Celular: 
+ Nacionalidad: 
+ Fecha de defuncion: 
+ Fecha de inscripcion de resgistro: 
+ Numero de Documento: 
+ Tipo de Documento: ??
+ Naturaleza: ??
+ Codigo: 
+ Razon social: 
+ Direccion:: 
+ Barrio: 
+ Municipio: 
+ Departamento: 
+ Telefono: 
+ Celular: 
+ Sucursal:: 
+ Correo: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
