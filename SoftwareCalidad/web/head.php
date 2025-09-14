@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="../public/favicon.ico" type="image/x-icon">
     <meta name="Jose Daniel Grijalba Osorio" content="">
     <!-- Bootstrap Core CSS -->
-    <link href="vendor/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <style>

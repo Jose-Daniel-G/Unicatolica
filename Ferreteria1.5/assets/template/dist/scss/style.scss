@@ -1,0 +1,33 @@
+/*
+Template Name: Admin Template
+Author: Niravjoshi / Wrappixel
+File: scss
+*/
+
+// Comando para compilar:
+// sass --no-source-map assets/template/dist/scss/style.scss assets/template/dist/css/style.css
+// sass --no-source-map assets/template/dist/scss/style.scss assets/template/dist/css/style.min.css
+
+@import 'variable';
+
+
+@import 'colors/default-dark'; 
+
+
+// Import Bootstrap source files
+@import "../../../vendor/bootstrap/scss/bootstrap";
+
+//This is for the icons
+@import '../../../icons/font-awesome/css/all.min.css';
+@import '../../../icons/themify-icons/themify-icons.css'; 
+
+
+//This is the core files
+
+@import 'core/core';
+@import 'widgets/widgets';
+@import 'responsive';
+
+
+//In This scss you can write your scss
+@import 'custom'; 

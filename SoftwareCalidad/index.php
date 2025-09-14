@@ -4,7 +4,7 @@
 
   <div class="wrapper">
     <!-- HEADER -->
-    <?php require_once("Config/Config.php");//Data que se usa al momento de conexion
+    <?php require_once("Config/Config.php"); //Data que se usa al momento de conexion
 
     // require_once("Helpers/Helpers.php");
     include_once "./web/header.php";
@@ -41,12 +41,12 @@
       <?php include_once "./web/footer.php"; ?>
     </footer>
     <!-- !FOOTER -->
-    <script src="./vendor/jquery/jquery-3.3.1.min.js"></script>
-	<!-- <script src="./vendor/datatable/js/datatables.min.js"></script>
-	<script src="./vendor/select2/js/select2.min.js"></script> -->
-	<script src="./vendor/bootstrap/js/bootstrap.min.js"></script>
-	<!-- <script src="./vendor/sweetalert/js/sweetalert2.min.js"></script> -->
-	<script src="./public/js/app.js"></script>
+    <script src="./public/vendor/jquery/jquery-3.3.1.min.js"></script>
+    <!-- <script src="./vendor/datatable/js/datatables.min.js"></script>
+	  <script src="./vendor/select2/js/select2.min.js"></script> -->
+    <script src="./vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- <script src="./vendor/sweetalert/js/sweetalert2.min.js"></script> -->
+    <script src="./public/js/app.js"></script>
     <!-- SCRIPTS -->
     <!-- <div id="scripts">
       <?php //include_once "./web/scripts.php"; 
